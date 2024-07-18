@@ -31,6 +31,8 @@ src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8
   
 </div>  
 
+###
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <a href="mailto:lugarig03@gmail.com" target="_blank">
